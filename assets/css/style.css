@@ -1,3 +1,7 @@
+body {
+  background-color: #000000;
+}
+
 /*navbar*/
 nav {
 background-color: #2e959e;
@@ -5,25 +9,19 @@ background-color: #2e959e;
 
 .navbar-brand {
    font-size: 20px;
-   font-family: "Oswald";
-   font-weight: bold;
+   font-family: "Open Sans";
 }
 
-/*sobre-mi*/
+/*nosotros*/
 #nosotros {
   background-color: #000000;
   color: #ffffff;
  }
 
- #nosotros hr {
-    width: 1300px;
-    height: 2px;
-    color: #2e959e;
- }
-
  #nosotros div{
     font-family: "Open Sans";
     line-height: 3;
+
  }
 
  #nosotros h4 {
@@ -32,4 +30,36 @@ background-color: #2e959e;
 
  .iconos {
      background-color: #2e959e;
+     text-align: center;
  }
+
+ /*destacado*/
+
+ #destacado {
+   background-color: #000000;
+   color: #ffffff;
+  }
+
+  .card-body {
+  background-color:  #2e959e;
+
+  }
+
+  /*contacto*/
+
+  #contacto {
+    background-color: #000000;
+    color: #ffffff;
+   }
+
+   #typeform-widget  {
+     background-color: #000000;
+     color: #ffffff;
+    }
+
+   /*footer*/
+
+   #footer {
+     background-color: #2e959e;
+     color: #ffffff;
+      }
