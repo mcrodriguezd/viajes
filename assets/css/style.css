@@ -1,0 +1,35 @@
+/*navbar*/
+nav {
+background-color: #2e959e;
+}
+
+.navbar-brand {
+   font-size: 20px;
+   font-family: "Oswald";
+   font-weight: bold;
+}
+
+/*sobre-mi*/
+#nosotros {
+  background-color: #000000;
+  color: #ffffff;
+ }
+
+ #nosotros hr {
+    width: 1300px;
+    height: 2px;
+    color: #2e959e;
+ }
+
+ #nosotros div{
+    font-family: "Open Sans";
+    line-height: 3;
+ }
+
+ #nosotros h4 {
+     font-weight: 600;
+ }
+
+ .iconos {
+     background-color: #2e959e;
+ }
